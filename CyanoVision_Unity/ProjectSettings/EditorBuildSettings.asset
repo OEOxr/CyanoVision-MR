@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Cyonovision.unity
+    path: Assets/Scenes/CyanoVision.unity
     guid: ebac3d7470ef849d497d70414083cc16
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 1ddbf11b1aa194f7c9aed542607fa5fb,
